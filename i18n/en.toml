@@ -33,8 +33,8 @@ other = "You can head back to the <a href=\"{{ . }}\">homepage</a>."
 [licensed_under]
 other = "Licensed under"
 
-[powered_by]
-other = "Powered by"
+# [powered_by]
+# other = "Powered by"
 
 [see_also]
 other = "See also in"
